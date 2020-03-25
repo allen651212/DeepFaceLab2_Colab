@@ -1,18 +1,20 @@
-﻿<table align="center"><tr><td align="center" width="9999">
-<img src="doc/DFL_welcome.jpg" align="center">
+﻿<table align="center" border="0"><tr><td align="center" width="9999">
+
+# DeepFaceLab  
+### the leading software for creating deepfakes
+
+<img src="doc/DFL_welcome.png" align="center">
+
+</td></tr>
+<tr><td align="center" width="9999">
 
 <p align="center">
 
 ![](doc/logo_cuda.png)
 ![](doc/logo_tensorflow.png)
 ![](doc/logo_python.png)
-</p>
-  
-# DeepFaceLab  
-### the leading software for creating deepfakes
 
-</td></tr>
-<tr><td align="center" width="9999">
+</p>
 
 More than 95% of deepfake videos are created with DeepFaceLab.
 
@@ -21,21 +23,49 @@ DeepFaceLab is used by such popular youtube channels as
 |![](doc/youtube_icon.png) [Ctrl Shift Face](https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g)|![](doc/youtube_icon.png) [VFXChris Ume](https://www.youtube.com/channel/UCGf4OlX_aTt8DlrgiH3jN3g/videos)|
 |---|---|
 
-|![](doc/youtube_icon.png) [Sham00k](https://www.youtube.com/channel/UCZXbWcv7fSZFTAZV4beckyw/videos)|![](doc/youtube_icon.png) [Collider videos](https://www.youtube.com/watch?v=A91P2qtPT54&list=PLayt6616lBclvOprvrC8qKGCO-mAhPRux)|![](doc/youtube_icon.png) [iFake](https://www.youtube.com/channel/UCC0lK2Zo2BMXX-k1Ks0r7dg/videos)|
-|---|---|---|
-</td></tr>
-<tr><td align="center" width="9999">
-
-# Quality progress
+|![](doc/youtube_icon.png) [Sham00k](https://www.youtube.com/channel/UCZXbWcv7fSZFTAZV4beckyw/videos)|![](doc/youtube_icon.png) [Collider videos](https://www.youtube.com/watch?v=A91P2qtPT54&list=PLayt6616lBclvOprvrC8qKGCO-mAhPRux)|![](doc/youtube_icon.png) [iFake](https://www.youtube.com/channel/UCC0lK2Zo2BMXX-k1Ks0r7dg/videos)|![](doc/youtube_icon.png) [NextFace](https://www.youtube.com/channel/UCFh3gL0a8BS21g-DHvXZEeQ/videos)|
+|---|---|---|---|
 
 </td></tr>
 <tr><td align="center" width="9999">
 
-|2018|![](doc/progress_2018.png) |
-|---|---|
+# What can I do using DeepFaceLab?
 
-|2020|![](doc/progress_2020.png)|
-|---|---|
+</td></tr>
+<tr><td align="center" width="9999">
+
+## Replace the face
+
+<img src="doc/replace_the_face.jpg" align="center">
+
+![](doc/youtube_icon.png) https://www.youtube.com/watch?v=aau8qa3xgFs
+
+</td></tr>
+<tr><td align="center" width="9999">
+
+## Change political speech*
+
+<img src="doc/political_speech.jpg" align="center">
+
+![](doc/youtube_icon.png) https://www.youtube.com/watch?v=2Z1oA3GYPaY
+
+\* also requires a skill in video editors such as *Adobe After Effects* or *Davinci Resolve*
+</td></tr>
+<tr><td align="center" width="9999">
+
+# Deepfake native resolution progress
+
+</td></tr>
+<tr><td align="center" width="9999">
+
+<img src="doc/deepfake_progress.png" align="center">
+
+</td></tr>
+<tr><td align="center" width="9999">
+
+<img src="doc/make_everything_ok.png" align="center">
+
+Unfortunately, there is no "make everything ok" button in DeepFaceLab. You should spend time studying the workflow and growing your skills. A skill in programs such as *AfterEffects* or *Davince Resolve* is also desirable.
 
 </td></tr>
 <tr><td align="center" width="9999">
@@ -74,9 +104,8 @@ DeepFaceLab is used by such popular youtube channels as
 |Communication groups|||
 ||[telegram (English / Russian)](https://t.me/DeepFaceLab_official)|Don't forget to hide your phone number|
 ||[telegram (English only)](https://t.me/DeepFaceLab_official_en)|Don't forget to hide your phone number|
+||QQ 951138799|中文 Chinese QQ group for ML/AI experts|
 ||[mrdeepfakes](https://mrdeepfakes.com/forums/)|the biggest NSFW English community|
-||QQ 951138799| 中文 Chinese QQ group for ML/AI experts||
-||[deepfaker.xyz](https://www.deepfaker.xyz)|中文 Chinese guys are localizing DeepFaceLab|
 ||[reddit r/GifFakes/](https://www.reddit.com/r/GifFakes/new/)|Post your deepfakes there !|
 ||[reddit r/SFWdeepfakes/](https://www.reddit.com/r/SFWdeepfakes/new/)|Post your deepfakes there !|
 
@@ -86,22 +115,21 @@ DeepFaceLab is used by such popular youtube channels as
   
 ## How I can help the project?
 
-||||
-|---|---|---|
-|Donate|Sponsor deepfake research and DeepFaceLab development.||
+|||
+|---|---|
+|Donate|Sponsor deepfake research and DeepFaceLab development.|
 ||[Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lepersorium@gmail.com&lc=US&no_note=0&item_name=Support+DeepFaceLab&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
-||[Donate via Yandex.Money](https://money.yandex.ru/to/41001142318065)||
-||bitcoin:31mPd6DxPCzbpCMZk4k1koWAbErSyqkAXr||
-||||
-|Last donations|10$ ( 14 march 2020 Amien Phillips )
-||20$ ( 12 march 2020 Maria D. )
-||200$ ( 12 march 2020 VFXChris Ume )
-||300$ ( 12 march 2020 Thiago O. )
-||50$ ( 8 march 2020 blanuk )
-||||
+||[Donate via Yandex.Money](https://money.yandex.ru/to/41001142318065)|
+||bitcoin:bc1qkhh7h0gwwhxgg6h6gpllfgstkd645fefrd5s6z|
+|Alipay 捐款|![](doc/Alipay_donation.jpg)|
+|||
+|Last donations|50$ ( Tomas Hajka )|
+||10$ ( 朱 阳阳 )|
+||24$ ( NextFace )|
+|||
 |Collect facesets|You can collect faceset of any celebrity that can be used in DeepFaceLab and share it [in the community](https://mrdeepfakes.com/forums/forum-celebrity-facesets)|
-||||
-|Star this repo|Register github account and push "Star" button.
+|||
+|Star this repo|Register github account and push "Star" button.|
 </td></tr>
 
 <tr><td align="center" width="9999">
